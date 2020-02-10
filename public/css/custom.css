@@ -1,0 +1,61 @@
+.avatar {
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+
+.avatar-name {
+  padding-top: 30px;
+  padding-left: 20px;
+  display: table-cell;
+}
+
+.profile-img {
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
+
+.img-dashboard {
+    display: inline-block;
+    text-align: center;
+    width: 75px;
+    filter: brightness(10);
+    padding: 18px;
+ }
+
+ .img-tipesurat {
+    width: 30px;
+    filter: brightness(20%);
+ }
+
+ .info-box-2 {
+ 	cursor: pointer;
+ }
+
+ .info-box-2 .content {
+   margin: auto 0;
+ }
+ .info-box-2 .content .text {
+   margin-top: 0;
+ }
+
+ .deco:hover {
+   text-decoration: none;
+}
+
+ .pdf-viewer {
+   width: 100%;
+   height: 650px;
+ }
+
+ .login-page .login-margin {
+   margin-left: 0;
+ }
+
+ .marked {
+  font-size: 14px;
+  text-align: left;
+  list-style: none;
+ }
